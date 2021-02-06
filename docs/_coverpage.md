@@ -1,7 +1,8 @@
 <br><br>
-![algorithm](https://gitee.com/zgf1366/pic_store/raw/master/img/20210113165638.jpg)
+<!-- ![algorithm](https://gitee.com/zgf1366/pic_store/raw/master/img/20210113165638.jpg)       -->
+<img src="https://gitee.com/zgf1366/pic_store/raw/master/img/20210113165638.jpg" width = "300" alt="Salute_Algorithm" align=center />
 
-## 一份学习算法从入门到踩坑到跑路的记录 | 🚴‍♂️ 
+## 一份学习算法从入门到跑路的记录 | 🚴‍♂️ 
 <iframe src="https://ghbtns.com/github-btn.html?user=Nicolas-gaofeng&repo=Salute_Algorithm&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 <iframe src="https://ghbtns.com/github-btn.html?user=Nicolas-gaofeng&repo=Salute_Algorithm&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 <br><br>
