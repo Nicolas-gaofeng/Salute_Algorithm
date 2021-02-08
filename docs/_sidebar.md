@@ -2,10 +2,8 @@
 
 * [**概述**](summary/summary.md)
 
-* **排序**
+* [**算法分析**](analysis/analysis.md)
 
-  * [快速排序](sort/1.md)
-  
   
 
 
