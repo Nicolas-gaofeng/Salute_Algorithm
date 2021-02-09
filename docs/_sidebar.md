@@ -4,6 +4,8 @@
 
 * [**算法分析**](analysis/analysis.md)
 
+* [**排序**](sort/sort.md)
+
   
 
 
